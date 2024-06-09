@@ -1,0 +1,38 @@
+wandb_version: 1
+
+batch_size:
+  desc: null
+  value: 76
+epsilon_decay:
+  desc: null
+  value: 0.8675022382499411
+learning_rate:
+  desc: null
+  value: 0.0014506914840020993
+_wandb:
+  desc: null
+  value:
+    python_version: 3.11.7
+    cli_version: 0.17.0
+    framework: torch
+    is_jupyter_run: false
+    is_kaggle_kernel: false
+    start_time: 1717463303
+    t:
+      1:
+      - 1
+      - 55
+      2:
+      - 1
+      - 55
+      3:
+      - 2
+      - 16
+      - 23
+      - 37
+      4: 3.11.7
+      5: 0.17.0
+      8:
+      - 4
+      - 5
+      13: darwin-arm64

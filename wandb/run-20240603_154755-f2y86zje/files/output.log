@@ -1,0 +1,53 @@
+init done
+cartpole made
+Hyperparameters made
+in training loop!
+Episode 1/10
+Total Reward: 36.0
+Epsilon: 0.995
+in training loop!
+Episode 2/10
+Total Reward: 20.0
+Epsilon: 0.990025
+in training loop!
+/opt/homebrew/lib/python3.11/site-packages/gym/utils/passive_env_checker.py:233: DeprecationWarning: `np.bool8` is a deprecated alias for `np.bool_`.  (Deprecated NumPy 1.24)
+  if not isinstance(terminated, (bool, np.bool8)):
+Episode 3/10
+Total Reward: 15.0
+Loss: 1.0035916566848755
+Epsilon: 0.985074875
+in training loop!
+Episode 4/10
+Total Reward: 18.0
+Loss: 0.8211249709129333
+Epsilon: 0.9801495006250001
+in training loop!
+Episode 5/10
+Total Reward: 35.0
+Loss: 0.40945160388946533
+Epsilon: 0.9752487531218751
+in training loop!
+Episode 6/10
+Total Reward: 18.0
+Loss: 0.4992806613445282
+Epsilon: 0.9703725093562657
+in training loop!
+Episode 7/10
+Total Reward: 30.0
+Loss: 0.3872200846672058
+Epsilon: 0.9655206468094844
+in training loop!
+Episode 8/10
+Total Reward: 16.0
+Loss: 1.2099378108978271
+Epsilon: 0.960693043575437
+in training loop!
+Episode 9/10
+Total Reward: 12.0
+Loss: 1.2621670961380005
+Epsilon: 0.9558895783575597
+in training loop!
+Episode 10/10
+Total Reward: 23.0
+Loss: 1.9995007514953613
+Epsilon: 0.9511101304657719

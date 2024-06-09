@@ -1,0 +1,192 @@
+2024-06-03 15:50:14 INFO Running runs: []
+2024-06-03 15:50:14 INFO Agent received command: run
+2024-06-03 15:50:14 INFO Agent starting run with config:
+	batch_size: 72
+	epsilon_decay: 1.572584306462421
+	learning_rate: 0.0005001715622260174
+2024-06-03 15:50:14 INFO About to run command: /usr/bin/env python train.py --batch_size=72 --epsilon_decay=1.572584306462421 --learning_rate=0.0005001715622260174
+2024-06-03 15:50:19 INFO Running runs: ['23dnwtk0']
+2024-06-03 15:50:19 INFO Cleaning up finished run: 23dnwtk0
+2024-06-03 15:50:20 INFO Agent received command: run
+2024-06-03 15:50:20 INFO Agent starting run with config:
+	batch_size: 72
+	epsilon_decay: 0.895546506745597
+	learning_rate: 0.0016693011417870589
+2024-06-03 15:50:20 INFO About to run command: /usr/bin/env python train.py --batch_size=72 --epsilon_decay=0.895546506745597 --learning_rate=0.0016693011417870589
+2024-06-03 15:50:25 INFO Running runs: ['tzc67v7s']
+2024-06-03 15:50:25 INFO Cleaning up finished run: tzc67v7s
+2024-06-03 15:50:25 INFO Agent received command: run
+2024-06-03 15:50:25 INFO Agent starting run with config:
+	batch_size: 97
+	epsilon_decay: 0.9710281891783856
+	learning_rate: 0.0012916895061542977
+2024-06-03 15:50:25 INFO About to run command: /usr/bin/env python train.py --batch_size=97 --epsilon_decay=0.9710281891783856 --learning_rate=0.0012916895061542977
+2024-06-03 15:50:30 INFO Running runs: ['gzxota67']
+2024-06-03 15:50:30 ERROR Detected 3 failed runs in the first 60 seconds, shutting down.
+2024-06-03 15:50:30 INFO To disable this check set WANDB_AGENT_DISABLE_FLAPPING=true
+2024-06-03 15:52:08 INFO Running runs: []
+2024-06-03 15:52:08 INFO Agent received command: run
+2024-06-03 15:52:08 INFO Agent starting run with config:
+	batch_size: 114
+	epsilon_decay: 1.06140400599094
+	learning_rate: 0.0007347306784998649
+2024-06-03 15:52:08 INFO About to run command: /usr/bin/env python train.py --batch_size=114 --epsilon_decay=1.06140400599094 --learning_rate=0.0007347306784998649
+2024-06-03 15:52:13 INFO Running runs: ['j5cj92e2']
+2024-06-03 15:52:13 INFO Cleaning up finished run: j5cj92e2
+2024-06-03 15:52:13 INFO Agent received command: run
+2024-06-03 15:52:13 INFO Agent starting run with config:
+	batch_size: 67
+	epsilon_decay: 1.2012614504271737
+	learning_rate: 0.0012448542387525202
+2024-06-03 15:52:13 INFO About to run command: /usr/bin/env python train.py --batch_size=67 --epsilon_decay=1.2012614504271737 --learning_rate=0.0012448542387525202
+2024-06-03 15:52:18 INFO Running runs: ['sd4c97ea']
+2024-06-03 15:52:18 INFO Cleaning up finished run: sd4c97ea
+2024-06-03 15:52:19 INFO Agent received command: run
+2024-06-03 15:52:19 INFO Agent starting run with config:
+	batch_size: 72
+	epsilon_decay: 1.775456501015221
+	learning_rate: 0.0008249323671251038
+2024-06-03 15:52:19 INFO About to run command: /usr/bin/env python train.py --batch_size=72 --epsilon_decay=1.775456501015221 --learning_rate=0.0008249323671251038
+2024-06-03 15:52:24 INFO Running runs: ['6iqp1k5j']
+2024-06-03 15:52:24 ERROR Detected 3 failed runs in the first 60 seconds, shutting down.
+2024-06-03 15:52:24 INFO To disable this check set WANDB_AGENT_DISABLE_FLAPPING=true
+2024-06-03 15:58:48 INFO Running runs: []
+2024-06-03 15:58:48 INFO Agent received command: run
+2024-06-03 15:58:48 INFO Agent starting run with config:
+	batch_size: 71
+	epsilon_decay: 0.5871071473914904
+	learning_rate: 0.0010917239684491327
+2024-06-03 15:58:48 INFO About to run command: /usr/bin/env python train.py --batch_size=71 --epsilon_decay=0.5871071473914904 --learning_rate=0.0010917239684491327
+2024-06-03 15:58:53 INFO Running runs: ['ofnc3hqi']
+2024-06-03 15:58:53 INFO Cleaning up finished run: ofnc3hqi
+2024-06-03 15:58:53 INFO Agent received command: run
+2024-06-03 15:58:53 INFO Agent starting run with config:
+	batch_size: 35
+	epsilon_decay: 0.7481288284842579
+	learning_rate: 0.0006091849862795494
+2024-06-03 15:58:53 INFO About to run command: /usr/bin/env python train.py --batch_size=35 --epsilon_decay=0.7481288284842579 --learning_rate=0.0006091849862795494
+2024-06-03 15:58:58 INFO Running runs: ['dauq5pgq']
+2024-06-03 15:58:58 INFO Cleaning up finished run: dauq5pgq
+2024-06-03 15:58:59 INFO Agent received command: run
+2024-06-03 15:58:59 INFO Agent starting run with config:
+	batch_size: 66
+	epsilon_decay: 1.730376299681776
+	learning_rate: 0.0009903517272707042
+2024-06-03 15:58:59 INFO About to run command: /usr/bin/env python train.py --batch_size=66 --epsilon_decay=1.730376299681776 --learning_rate=0.0009903517272707042
+2024-06-03 15:59:04 INFO Running runs: ['hxznbmzm']
+2024-06-03 15:59:04 ERROR Detected 3 failed runs in the first 60 seconds, shutting down.
+2024-06-03 15:59:04 INFO To disable this check set WANDB_AGENT_DISABLE_FLAPPING=true
+2024-06-03 15:59:26 INFO Running runs: []
+2024-06-03 15:59:26 INFO Agent received command: run
+2024-06-03 15:59:26 INFO Agent starting run with config:
+	batch_size: 112
+	epsilon_decay: 0.8005331463798635
+	learning_rate: 0.0008635995639378242
+2024-06-03 15:59:26 INFO About to run command: /usr/bin/env python train.py --batch_size=112 --epsilon_decay=0.8005331463798635 --learning_rate=0.0008635995639378242
+2024-06-03 15:59:31 INFO Running runs: ['wk4rw2mo']
+2024-06-03 15:59:31 INFO Cleaning up finished run: wk4rw2mo
+2024-06-03 15:59:32 INFO Agent received command: run
+2024-06-03 15:59:32 INFO Agent starting run with config:
+	batch_size: 101
+	epsilon_decay: 1.1137851513506405
+	learning_rate: 0.00186583590430841
+2024-06-03 15:59:32 INFO About to run command: /usr/bin/env python train.py --batch_size=101 --epsilon_decay=1.1137851513506405 --learning_rate=0.00186583590430841
+2024-06-03 15:59:37 INFO Running runs: ['8fljqj15']
+2024-06-03 15:59:37 INFO Cleaning up finished run: 8fljqj15
+2024-06-03 15:59:37 INFO Agent received command: run
+2024-06-03 15:59:37 INFO Agent starting run with config:
+	batch_size: 46
+	epsilon_decay: 1.09706138087754
+	learning_rate: 0.0013990400770422
+2024-06-03 15:59:37 INFO About to run command: /usr/bin/env python train.py --batch_size=46 --epsilon_decay=1.09706138087754 --learning_rate=0.0013990400770422
+2024-06-03 16:01:01 INFO Running runs: []
+2024-06-03 16:01:02 INFO Agent received command: run
+2024-06-03 16:01:02 INFO Agent starting run with config:
+	batch_size: 104
+	epsilon_decay: 0.8504661757548504
+	learning_rate: 0.0015007211588861265
+2024-06-03 16:01:02 INFO About to run command: /usr/bin/env python train.py --batch_size=104 --epsilon_decay=0.8504661757548504 --learning_rate=0.0015007211588861265
+2024-06-03 16:01:07 INFO Running runs: ['jv3eufwa']
+2024-06-03 16:01:07 INFO Cleaning up finished run: jv3eufwa
+2024-06-03 16:01:52 INFO Running runs: []
+2024-06-03 16:01:52 INFO Agent received command: run
+2024-06-03 16:01:52 INFO Agent starting run with config:
+	batch_size: 106
+	epsilon_decay: 1.8234949867217012
+	learning_rate: 0.0012055527086810914
+2024-06-03 16:01:52 INFO About to run command: /usr/bin/env python train.py --batch_size=106 --epsilon_decay=1.8234949867217012 --learning_rate=0.0012055527086810914
+2024-06-03 16:01:57 INFO Running runs: ['xxk34jc8']
+2024-06-03 16:01:57 INFO Cleaning up finished run: xxk34jc8
+2024-06-03 16:01:58 INFO Agent received command: run
+2024-06-03 16:01:58 INFO Agent starting run with config:
+	batch_size: 121
+	epsilon_decay: 1.4795217396912972
+	learning_rate: 0.0008648434281200163
+2024-06-03 16:01:58 INFO About to run command: /usr/bin/env python train.py --batch_size=121 --epsilon_decay=1.4795217396912972 --learning_rate=0.0008648434281200163
+2024-06-03 16:02:03 INFO Running runs: ['rtixd4jx']
+2024-06-03 16:02:03 INFO Cleaning up finished run: rtixd4jx
+2024-06-03 16:02:04 INFO Agent received command: run
+2024-06-03 16:02:04 INFO Agent starting run with config:
+	batch_size: 36
+	epsilon_decay: 1.2032735774699284
+	learning_rate: 0.0008213085635153585
+2024-06-03 16:02:04 INFO About to run command: /usr/bin/env python train.py --batch_size=36 --epsilon_decay=1.2032735774699284 --learning_rate=0.0008213085635153585
+2024-06-03 16:07:36 INFO Running runs: []
+2024-06-03 16:07:37 INFO Agent received command: run
+2024-06-03 16:07:37 INFO Agent starting run with config:
+	batch_size: 120
+	epsilon_decay: 1.0432876598436644
+	learning_rate: 0.0013929911562166415
+2024-06-03 16:07:37 INFO About to run command: /usr/bin/env python train.py --batch_size=120 --epsilon_decay=1.0432876598436644 --learning_rate=0.0013929911562166415
+2024-06-03 16:08:42 INFO Running runs: []
+2024-06-03 16:08:42 INFO Agent received command: run
+2024-06-03 16:08:42 INFO Agent starting run with config:
+	batch_size: 107
+	epsilon_decay: 1.6620546303148938
+	learning_rate: 0.0009467082244143636
+2024-06-03 16:08:42 INFO About to run command: /usr/bin/env python train.py --batch_size=107 --epsilon_decay=1.6620546303148938 --learning_rate=0.0009467082244143636
+2024-06-03 16:08:47 INFO Running runs: ['6fb4lx5o']
+2024-06-03 16:08:47 INFO Cleaning up finished run: 6fb4lx5o
+2024-06-03 16:08:48 INFO Agent received command: run
+2024-06-03 16:08:48 INFO Agent starting run with config:
+	batch_size: 36
+	epsilon_decay: 1.235490243762575
+	learning_rate: 0.0015368883320431923
+2024-06-03 16:08:48 INFO About to run command: /usr/bin/env python train.py --batch_size=36 --epsilon_decay=1.235490243762575 --learning_rate=0.0015368883320431923
+2024-06-03 16:08:53 INFO Running runs: ['w8u0t7xc']
+2024-06-03 16:08:53 INFO Cleaning up finished run: w8u0t7xc
+2024-06-03 16:08:53 INFO Agent received command: run
+2024-06-03 16:08:53 INFO Agent starting run with config:
+	batch_size: 64
+	epsilon_decay: 0.620101249522284
+	learning_rate: 0.0005245390421711152
+2024-06-03 16:08:53 INFO About to run command: /usr/bin/env python train.py --batch_size=64 --epsilon_decay=0.620101249522284 --learning_rate=0.0005245390421711152
+2024-06-03 16:08:58 INFO Running runs: ['k8zecfxf']
+2024-06-03 16:08:58 ERROR Detected 3 failed runs in the first 60 seconds, shutting down.
+2024-06-03 16:08:58 INFO To disable this check set WANDB_AGENT_DISABLE_FLAPPING=true
+2024-06-03 16:40:54 INFO Running runs: []
+2024-06-03 16:40:54 INFO Agent received command: run
+2024-06-03 16:40:54 INFO Agent starting run with config:
+	batch_size: 105
+	epsilon_decay: 2.6399093538699736
+	learning_rate: 0.0002504390296238443
+2024-06-03 16:40:54 INFO About to run command: /usr/bin/env python train.py --batch_size=105 --epsilon_decay=2.6399093538699736 --learning_rate=0.0002504390296238443
+2024-06-03 16:40:59 INFO Running runs: ['6scg0dbg']
+2024-06-03 16:40:59 INFO Cleaning up finished run: 6scg0dbg
+2024-06-03 16:41:00 INFO Agent received command: run
+2024-06-03 16:41:00 INFO Agent starting run with config:
+	batch_size: 93
+	epsilon_decay: 1.6942671311159323
+	learning_rate: 0.0026827102805939383
+2024-06-03 16:41:00 INFO About to run command: /usr/bin/env python train.py --batch_size=93 --epsilon_decay=1.6942671311159323 --learning_rate=0.0026827102805939383
+2024-06-03 16:41:05 INFO Running runs: ['b0f3s4tl']
+2024-06-03 16:41:05 INFO Cleaning up finished run: b0f3s4tl
+2024-06-03 16:41:05 INFO Agent received command: run
+2024-06-03 16:41:05 INFO Agent starting run with config:
+	batch_size: 223
+	epsilon_decay: 1.456053786894706
+	learning_rate: 0.002739159192846217
+2024-06-03 16:41:05 INFO About to run command: /usr/bin/env python train.py --batch_size=223 --epsilon_decay=1.456053786894706 --learning_rate=0.002739159192846217
+2024-06-03 16:41:10 INFO Running runs: ['0vwrjo2p']
+2024-06-03 16:41:10 ERROR Detected 3 failed runs in the first 60 seconds, shutting down.
+2024-06-03 16:41:10 INFO To disable this check set WANDB_AGENT_DISABLE_FLAPPING=true

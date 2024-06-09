@@ -1,0 +1,8 @@
+wandb_version: 1
+
+batch_size:
+  value: 66
+epsilon_decay:
+  value: 1.730376299681776
+learning_rate:
+  value: 0.0009903517272707042

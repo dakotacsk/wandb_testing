@@ -1,0 +1,503 @@
+init done
+cartpole made
+Hyperparameters made
+in training loop!
+Episode 1/100
+Total Reward: 39.0
+Epsilon: 0.995
+in training loop!
+Episode 2/100
+Total Reward: 18.0
+Epsilon: 0.990025
+in training loop!
+Episode 3/100
+Total Reward: 13.0
+Loss: 1.28971266746521
+Epsilon: 0.985074875
+in training loop!
+Episode 4/100
+Total Reward: 18.0
+Loss: 0.8887158036231995
+Epsilon: 0.9801495006250001
+in training loop!
+Episode 5/100
+Total Reward: 22.0
+Loss: 0.4704912304878235
+Epsilon: 0.9752487531218751
+in training loop!
+Episode 6/100
+Total Reward: 44.0
+Loss: 0.07704702764749527
+Epsilon: 0.9703725093562657
+in training loop!
+Episode 7/100
+Total Reward: 48.0
+Loss: 0.021183758974075317
+Epsilon: 0.9655206468094844
+in training loop!
+Episode 8/100
+Total Reward: 19.0
+Loss: 0.01998278684914112
+Epsilon: 0.960693043575437
+in training loop!
+Episode 9/100
+Total Reward: 22.0
+Loss: 0.010377631522715092
+Epsilon: 0.9558895783575597
+in training loop!
+Episode 10/100
+Total Reward: 12.0
+Loss: 0.0047018080949783325
+Epsilon: 0.9511101304657719
+in training loop!
+Episode 11/100
+Total Reward: 11.0
+Loss: 0.007710048463195562
+Epsilon: 0.946354579813443
+in training loop!
+Episode 12/100
+Total Reward: 43.0
+Loss: 0.08626468479633331
+Epsilon: 0.9416228069143757
+in training loop!
+Episode 13/100
+Total Reward: 13.0
+Loss: 0.09678925573825836
+Epsilon: 0.9369146928798039
+in training loop!
+Episode 14/100
+Total Reward: 21.0
+Loss: 0.004617196973413229
+Epsilon: 0.9322301194154049
+in training loop!
+Episode 15/100
+Total Reward: 25.0
+Loss: 0.009214733727276325
+Epsilon: 0.9275689688183278
+in training loop!
+Episode 16/100
+Total Reward: 32.0
+Loss: 0.0631614550948143
+Epsilon: 0.9229311239742362
+in training loop!
+Episode 17/100
+Total Reward: 16.0
+Loss: 0.05519285053014755
+Epsilon: 0.918316468354365
+in training loop!
+Episode 18/100
+Total Reward: 43.0
+Loss: 0.04082484543323517
+Epsilon: 0.9137248860125932
+in training loop!
+Episode 19/100
+Total Reward: 9.0
+Loss: 0.020573953166604042
+Epsilon: 0.9091562615825302
+in training loop!
+Episode 20/100
+Total Reward: 41.0
+Loss: 0.03635701909661293
+Epsilon: 0.9046104802746175
+in training loop!
+Episode 21/100
+Total Reward: 22.0
+Loss: 0.011363361030817032
+Epsilon: 0.9000874278732445
+in training loop!
+Episode 22/100
+Total Reward: 25.0
+Loss: 0.01413779892027378
+Epsilon: 0.8955869907338783
+in training loop!
+Episode 23/100
+Total Reward: 11.0
+Loss: 0.13536974787712097
+Epsilon: 0.8911090557802088
+in training loop!
+Episode 24/100
+Total Reward: 20.0
+Loss: 0.3042234480381012
+Epsilon: 0.8866535105013078
+in training loop!
+Episode 25/100
+Total Reward: 10.0
+Loss: 0.24039408564567566
+Epsilon: 0.8822202429488013
+in training loop!
+Episode 26/100
+Total Reward: 20.0
+Loss: 0.11010449379682541
+Epsilon: 0.8778091417340573
+in training loop!
+Episode 27/100
+Total Reward: 21.0
+Loss: 0.1763545274734497
+Epsilon: 0.8734200960253871
+in training loop!
+Episode 28/100
+Total Reward: 28.0
+Loss: 0.1829245537519455
+Epsilon: 0.8690529955452602
+in training loop!
+Episode 29/100
+Total Reward: 34.0
+Loss: 0.03213772922754288
+Epsilon: 0.8647077305675338
+in training loop!
+Episode 30/100
+Total Reward: 21.0
+Loss: 0.07760635018348694
+Epsilon: 0.8603841919146962
+in training loop!
+Episode 31/100
+Total Reward: 40.0
+Loss: 0.14365804195404053
+Epsilon: 0.8560822709551227
+in training loop!
+Episode 32/100
+Total Reward: 14.0
+Loss: 0.10919748246669769
+Epsilon: 0.851801859600347
+in training loop!
+Episode 33/100
+Total Reward: 29.0
+Loss: 0.1730555146932602
+Epsilon: 0.8475428503023453
+in training loop!
+Episode 34/100
+Total Reward: 12.0
+Loss: 0.09918329864740372
+Epsilon: 0.8433051360508336
+in training loop!
+Episode 35/100
+Total Reward: 29.0
+Loss: 0.2700701057910919
+Epsilon: 0.8390886103705794
+in training loop!
+Episode 36/100
+Total Reward: 12.0
+Loss: 0.047868140041828156
+Epsilon: 0.8348931673187264
+in training loop!
+Episode 37/100
+Total Reward: 15.0
+Loss: 0.10055806487798691
+Epsilon: 0.8307187014821328
+in training loop!
+Episode 38/100
+Total Reward: 14.0
+Loss: 0.2646769881248474
+Epsilon: 0.8265651079747222
+in training loop!
+Episode 39/100
+Total Reward: 31.0
+Loss: 0.2838854491710663
+Epsilon: 0.8224322824348486
+in training loop!
+Episode 40/100
+Total Reward: 45.0
+Loss: 0.16224896907806396
+Epsilon: 0.8183201210226743
+in training loop!
+Episode 41/100
+Total Reward: 19.0
+Loss: 0.14135000109672546
+Epsilon: 0.8142285204175609
+in training loop!
+Episode 42/100
+Total Reward: 65.0
+Loss: 0.20270323753356934
+Epsilon: 0.810157377815473
+in training loop!
+Episode 43/100
+Total Reward: 14.0
+Loss: 0.24032381176948547
+Epsilon: 0.8061065909263957
+in training loop!
+Episode 44/100
+Total Reward: 15.0
+Loss: 0.09761585295200348
+Epsilon: 0.8020760579717637
+in training loop!
+Episode 45/100
+Total Reward: 31.0
+Loss: 0.2765417695045471
+Epsilon: 0.798065677681905
+in training loop!
+Episode 46/100
+Total Reward: 20.0
+Loss: 0.09262582659721375
+Epsilon: 0.7940753492934954
+in training loop!
+Episode 47/100
+Total Reward: 41.0
+Loss: 0.18984436988830566
+Epsilon: 0.7901049725470279
+in training loop!
+Episode 48/100
+Total Reward: 30.0
+Loss: 0.30740147829055786
+Epsilon: 0.7861544476842928
+in training loop!
+Episode 49/100
+Total Reward: 64.0
+Loss: 0.3296668529510498
+Epsilon: 0.7822236754458713
+in training loop!
+Episode 50/100
+Total Reward: 87.0
+Loss: 0.28002816438674927
+Epsilon: 0.778312557068642
+in training loop!
+Episode 51/100
+Total Reward: 25.0
+Loss: 0.5155287384986877
+Epsilon: 0.7744209942832988
+in training loop!
+Episode 52/100
+Total Reward: 33.0
+Loss: 0.2288239449262619
+Epsilon: 0.7705488893118823
+in training loop!
+Episode 53/100
+Total Reward: 15.0
+Loss: 0.20868319272994995
+Epsilon: 0.7666961448653229
+in training loop!
+Episode 54/100
+Total Reward: 43.0
+Loss: 0.6800811290740967
+Epsilon: 0.7628626641409962
+in training loop!
+Episode 55/100
+Total Reward: 17.0
+Loss: 0.19656088948249817
+Epsilon: 0.7590483508202912
+in training loop!
+Episode 56/100
+Total Reward: 34.0
+Loss: 0.04638086259365082
+Epsilon: 0.7552531090661897
+in training loop!
+Episode 57/100
+Total Reward: 22.0
+Loss: 0.5863744616508484
+Epsilon: 0.7514768435208588
+in training loop!
+Episode 58/100
+Total Reward: 18.0
+Loss: 0.8464266657829285
+Epsilon: 0.7477194593032545
+in training loop!
+Episode 59/100
+Total Reward: 53.0
+Loss: 0.2437560111284256
+Epsilon: 0.7439808620067382
+in training loop!
+Episode 60/100
+Total Reward: 23.0
+Loss: 0.3888431191444397
+Epsilon: 0.7402609576967045
+in training loop!
+Episode 61/100
+Total Reward: 35.0
+Loss: 0.15183815360069275
+Epsilon: 0.736559652908221
+in training loop!
+Episode 62/100
+Total Reward: 22.0
+Loss: 0.5584142208099365
+Epsilon: 0.7328768546436799
+in training loop!
+Episode 63/100
+Total Reward: 97.0
+Loss: 0.09969621896743774
+Epsilon: 0.7292124703704616
+in training loop!
+Episode 64/100
+Total Reward: 23.0
+Loss: 0.522818386554718
+Epsilon: 0.7255664080186093
+in training loop!
+Episode 65/100
+Total Reward: 74.0
+Loss: 0.427010178565979
+Epsilon: 0.7219385759785162
+in training loop!
+Episode 66/100
+Total Reward: 56.0
+Loss: 0.619630753993988
+Epsilon: 0.7183288830986236
+in training loop!
+Episode 67/100
+Total Reward: 110.0
+Loss: 0.34319791197776794
+Epsilon: 0.7147372386831305
+in training loop!
+Episode 68/100
+Total Reward: 41.0
+Loss: 0.4982038140296936
+Epsilon: 0.7111635524897149
+in training loop!
+Episode 69/100
+Total Reward: 30.0
+Loss: 0.9469770193099976
+Epsilon: 0.7076077347272662
+in training loop!
+Episode 70/100
+Total Reward: 21.0
+Loss: 0.050966449081897736
+Epsilon: 0.7040696960536299
+in training loop!
+Episode 71/100
+Total Reward: 51.0
+Loss: 0.4482026696205139
+Epsilon: 0.7005493475733617
+in training loop!
+Episode 72/100
+Total Reward: 16.0
+Loss: 0.3135291635990143
+Epsilon: 0.697046600835495
+in training loop!
+Episode 73/100
+Total Reward: 68.0
+Loss: 0.24862352013587952
+Epsilon: 0.6935613678313175
+in training loop!
+Episode 74/100
+Total Reward: 12.0
+Loss: 0.1551416963338852
+Epsilon: 0.6900935609921609
+in training loop!
+/opt/anaconda3/lib/python3.11/site-packages/gym/utils/passive_env_checker.py:233: DeprecationWarning: `np.bool8` is a deprecated alias for `np.bool_`.  (Deprecated NumPy 1.24)
+  if not isinstance(terminated, (bool, np.bool8)):
+Episode 75/100
+Total Reward: 42.0
+Loss: 0.09045492112636566
+Epsilon: 0.6866430931872001
+in training loop!
+Episode 76/100
+Total Reward: 40.0
+Loss: 0.2230350822210312
+Epsilon: 0.6832098777212641
+in training loop!
+Episode 77/100
+Total Reward: 17.0
+Loss: 0.38342922925949097
+Epsilon: 0.6797938283326578
+in training loop!
+Episode 78/100
+Total Reward: 14.0
+Loss: 0.19868358969688416
+Epsilon: 0.6763948591909945
+in training loop!
+Episode 79/100
+Total Reward: 29.0
+Loss: 0.6031152606010437
+Epsilon: 0.6730128848950395
+in training loop!
+Episode 80/100
+Total Reward: 42.0
+Loss: 0.26483240723609924
+Epsilon: 0.6696478204705644
+in training loop!
+Episode 81/100
+Total Reward: 42.0
+Loss: 0.6573797464370728
+Epsilon: 0.6662995813682115
+in training loop!
+Episode 82/100
+Total Reward: 11.0
+Loss: 1.1421817541122437
+Epsilon: 0.6629680834613705
+in training loop!
+Episode 83/100
+Total Reward: 31.0
+Loss: 0.3894277811050415
+Epsilon: 0.6596532430440636
+in training loop!
+Episode 84/100
+Total Reward: 25.0
+Loss: 0.161163792014122
+Epsilon: 0.6563549768288433
+in training loop!
+Episode 85/100
+Total Reward: 9.0
+Loss: 0.32547661662101746
+Epsilon: 0.653073201944699
+in training loop!
+Episode 86/100
+Total Reward: 117.0
+Loss: 0.5967848300933838
+Epsilon: 0.6498078359349755
+in training loop!
+Episode 87/100
+Total Reward: 39.0
+Loss: 0.10409583896398544
+Epsilon: 0.6465587967553006
+in training loop!
+Episode 88/100
+Total Reward: 43.0
+Loss: 0.38940221071243286
+Epsilon: 0.6433260027715241
+in training loop!
+Episode 89/100
+Total Reward: 67.0
+Loss: 0.40647605061531067
+Epsilon: 0.6401093727576664
+in training loop!
+Episode 90/100
+Total Reward: 90.0
+Loss: 0.10953761637210846
+Epsilon: 0.6369088258938781
+in training loop!
+Episode 91/100
+Total Reward: 119.0
+Loss: 0.4259348511695862
+Epsilon: 0.6337242817644086
+in training loop!
+Episode 92/100
+Total Reward: 56.0
+Loss: 0.4442856013774872
+Epsilon: 0.6305556603555866
+in training loop!
+Episode 93/100
+Total Reward: 46.0
+Loss: 1.1832627058029175
+Epsilon: 0.6274028820538087
+in training loop!
+Episode 94/100
+Total Reward: 27.0
+Loss: 0.5846320986747742
+Epsilon: 0.6242658676435396
+in training loop!
+Episode 95/100
+Total Reward: 98.0
+Loss: 0.1631564199924469
+Epsilon: 0.6211445383053219
+in training loop!
+Episode 96/100
+Total Reward: 147.0
+Loss: 0.4339882731437683
+Epsilon: 0.6180388156137953
+in training loop!
+Episode 97/100
+Total Reward: 35.0
+Loss: 0.358437716960907
+Epsilon: 0.6149486215357263
+in training loop!
+Episode 98/100
+Total Reward: 40.0
+Loss: 0.6240319609642029
+Epsilon: 0.6118738784280476
+in training loop!
+Episode 99/100
+Total Reward: 15.0
+Loss: 0.2620304226875305
+Epsilon: 0.6088145090359074
+in training loop!
+Episode 100/100
+Total Reward: 43.0
+Loss: 0.6528211236000061
+Epsilon: 0.6057704364907278

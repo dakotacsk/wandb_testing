@@ -1,0 +1,48 @@
+2024-06-04 00:27:54,337 INFO    MainThread:19173 [wandb_setup.py:_flush():76] Current SDK version is 0.17.0
+2024-06-04 00:27:54,337 INFO    MainThread:19173 [wandb_setup.py:_flush():76] Configure stats pid to 19173
+2024-06-04 00:27:54,337 INFO    MainThread:19173 [wandb_setup.py:_flush():76] Loading settings from /Users/dakotachang/.config/wandb/settings
+2024-06-04 00:27:54,337 INFO    MainThread:19173 [wandb_setup.py:_flush():76] Loading settings from /Users/dakotachang/wandb_testing/wandb/settings
+2024-06-04 00:27:54,337 INFO    MainThread:19173 [wandb_setup.py:_flush():76] Loading settings from environment variables: {'entity': 'dakota_csk', 'project': 'wandb_testing', 'sweep_id': 'vk28yrqa', 'root_dir': '/Users/dakotachang/wandb_testing', 'run_id': 'hsolqqpp', 'sweep_param_path': '/Users/dakotachang/wandb_testing/wandb/sweep-vk28yrqa/config-hsolqqpp.yaml'}
+2024-06-04 00:27:54,337 INFO    MainThread:19173 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2024-06-04 00:27:54,337 INFO    MainThread:19173 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'train.py', 'program_abspath': '/Users/dakotachang/wandb_testing/train.py', 'program': '/Users/dakotachang/wandb_testing/train.py'}
+2024-06-04 00:27:54,337 INFO    MainThread:19173 [wandb_setup.py:_flush():76] Applying login settings: {}
+2024-06-04 00:27:54,337 INFO    MainThread:19173 [wandb_init.py:_log_setup():520] Logging user logs to /Users/dakotachang/wandb_testing/wandb/run-20240604_002754-hsolqqpp/logs/debug.log
+2024-06-04 00:27:54,337 INFO    MainThread:19173 [wandb_init.py:_log_setup():521] Logging internal logs to /Users/dakotachang/wandb_testing/wandb/run-20240604_002754-hsolqqpp/logs/debug-internal.log
+2024-06-04 00:27:54,337 INFO    MainThread:19173 [wandb_init.py:init():560] calling init triggers
+2024-06-04 00:27:54,337 INFO    MainThread:19173 [wandb_init.py:init():567] wandb.init called with sweep_config: {'batch_size': 70, 'epsilon_decay': 1.6986049609489462, 'learning_rate': 0.001329396123414936}
+config: {'batch_size': 70, 'epsilon_decay': 1.6986049609489462, 'learning_rate': 0.001329396123414936}
+2024-06-04 00:27:54,337 INFO    MainThread:19173 [wandb_init.py:init():610] starting backend
+2024-06-04 00:27:54,337 INFO    MainThread:19173 [wandb_init.py:init():614] setting up manager
+2024-06-04 00:27:54,340 INFO    MainThread:19173 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2024-06-04 00:27:54,341 INFO    MainThread:19173 [wandb_init.py:init():622] backend started and connected
+2024-06-04 00:27:54,345 INFO    MainThread:19173 [wandb_run.py:_config_callback():1376] config_cb None None {'batch_size': 70, 'epsilon_decay': 1.6986049609489462, 'learning_rate': 0.001329396123414936}
+2024-06-04 00:27:54,345 INFO    MainThread:19173 [wandb_init.py:init():711] updated telemetry
+2024-06-04 00:27:54,359 INFO    MainThread:19173 [wandb_init.py:init():744] communicating run to backend with 90.0 second timeout
+2024-06-04 00:27:54,563 INFO    MainThread:19173 [wandb_run.py:_on_init():2396] communicating current version
+2024-06-04 00:27:54,652 INFO    MainThread:19173 [wandb_run.py:_on_init():2405] got version response 
+2024-06-04 00:27:54,653 INFO    MainThread:19173 [wandb_init.py:init():795] starting run threads in backend
+2024-06-04 00:27:55,069 ERROR   MainThread:19173 [wandb_init.py:init():1174] error in wandb.init()
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.11/site-packages/wandb/sdk/wandb_init.py", line 1164, in init
+    return wi.init()
+           ^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/wandb/sdk/wandb_init.py", line 837, in init
+    run._on_start()
+  File "/opt/anaconda3/lib/python3.11/site-packages/wandb/sdk/wandb_run.py", line 2414, in _on_start
+    self._header(
+  File "/opt/anaconda3/lib/python3.11/site-packages/wandb/sdk/wandb_run.py", line 3591, in _header
+    Run._header_wandb_version_info(settings=settings, printer=printer)
+  File "/opt/anaconda3/lib/python3.11/site-packages/wandb/sdk/wandb_run.py", line 3624, in _header_wandb_version_info
+    printer.display(
+  File "/opt/anaconda3/lib/python3.11/site-packages/wandb/sdk/lib/printer.py", line 68, in display
+    self._display(text, level=level, default_text=default_text)
+  File "/opt/anaconda3/lib/python3.11/site-packages/wandb/sdk/lib/printer.py", line 152, in _display
+    self._display_fn_mapping(level)(text)
+  File "/opt/anaconda3/lib/python3.11/site-packages/wandb/errors/term.py", line 42, in termlog
+    _log(
+  File "/opt/anaconda3/lib/python3.11/site-packages/wandb/errors/term.py", line 103, in _log
+    click.echo(line, file=sys.stderr, nl=newline)
+  File "/opt/anaconda3/lib/python3.11/site-packages/click/utils.py", line 318, in echo
+    file.write(out)  # type: ignore
+    ^^^^^^^^^^^^^^^
+OSError: [Errno 5] Input/output error

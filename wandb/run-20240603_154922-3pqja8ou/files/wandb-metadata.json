@@ -1,0 +1,49 @@
+{
+    "os": "macOS-14.4.1-arm64-arm-64bit",
+    "python": "3.11.7",
+    "heartbeatAt": "2024-06-03T19:49:23.141654",
+    "startedAt": "2024-06-03T19:49:22.435832",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/Users/dakotachang/wandb_testing/train.py",
+    "codePathLocal": "train.py",
+    "codePath": "train.py",
+    "git": {
+        "remote": "https://github.com/dakotacsk/wandb_testing.git",
+        "commit": "abd4e46f0a70be6019bade9c959492ec363b37a6"
+    },
+    "email": null,
+    "root": "/Users/dakotachang/wandb_testing",
+    "host": "Dakotas-MBP-2.olin.edu",
+    "username": "dakotachang",
+    "executable": "/opt/homebrew/opt/python@3.11/bin/python3.11",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 3504,
+        "min": 600,
+        "max": 3504
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3504,
+            "min": 600,
+            "max": 3504
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 460.4317207336426,
+            "used": 12.546627044677734
+        }
+    },
+    "gpuapple": {
+        "type": "Apple M2",
+        "vendor": "sppci_vendor_Apple"
+    },
+    "memory": {
+        "total": 8.0
+    }
+}

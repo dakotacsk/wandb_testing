@@ -1,0 +1,35 @@
+2024-06-03 21:36:22,821 INFO    MainThread:95199 [wandb_setup.py:_flush():76] Current SDK version is 0.17.0
+2024-06-03 21:36:22,822 INFO    MainThread:95199 [wandb_setup.py:_flush():76] Configure stats pid to 95199
+2024-06-03 21:36:22,822 INFO    MainThread:95199 [wandb_setup.py:_flush():76] Loading settings from /Users/dakotachang/.config/wandb/settings
+2024-06-03 21:36:22,822 INFO    MainThread:95199 [wandb_setup.py:_flush():76] Loading settings from /Users/dakotachang/wandb_testing/wandb/settings
+2024-06-03 21:36:22,822 INFO    MainThread:95199 [wandb_setup.py:_flush():76] Loading settings from environment variables: {'entity': 'dakota_csk', 'project': 'wandb_testing', 'sweep_id': 'vk28yrqa', 'root_dir': '/Users/dakotachang/wandb_testing', 'run_id': 'w84f7c2k', 'sweep_param_path': '/Users/dakotachang/wandb_testing/wandb/sweep-vk28yrqa/config-w84f7c2k.yaml'}
+2024-06-03 21:36:22,822 INFO    MainThread:95199 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2024-06-03 21:36:22,822 INFO    MainThread:95199 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'train.py', 'program_abspath': '/Users/dakotachang/wandb_testing/train.py', 'program': '/Users/dakotachang/wandb_testing/train.py'}
+2024-06-03 21:36:22,822 INFO    MainThread:95199 [wandb_setup.py:_flush():76] Applying login settings: {}
+2024-06-03 21:36:22,822 INFO    MainThread:95199 [wandb_init.py:_log_setup():520] Logging user logs to /Users/dakotachang/wandb_testing/wandb/run-20240603_213622-w84f7c2k/logs/debug.log
+2024-06-03 21:36:22,822 INFO    MainThread:95199 [wandb_init.py:_log_setup():521] Logging internal logs to /Users/dakotachang/wandb_testing/wandb/run-20240603_213622-w84f7c2k/logs/debug-internal.log
+2024-06-03 21:36:22,822 INFO    MainThread:95199 [wandb_init.py:init():560] calling init triggers
+2024-06-03 21:36:22,822 INFO    MainThread:95199 [wandb_init.py:init():567] wandb.init called with sweep_config: {'batch_size': 40, 'epsilon_decay': 1.4247680934274758, 'learning_rate': 0.0016331175878402664}
+config: {'batch_size': 40, 'epsilon_decay': 1.4247680934274758, 'learning_rate': 0.0016331175878402664}
+2024-06-03 21:36:22,822 INFO    MainThread:95199 [wandb_init.py:init():610] starting backend
+2024-06-03 21:36:22,822 INFO    MainThread:95199 [wandb_init.py:init():614] setting up manager
+2024-06-03 21:36:22,826 INFO    MainThread:95199 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2024-06-03 21:36:22,828 INFO    MainThread:95199 [wandb_init.py:init():622] backend started and connected
+2024-06-03 21:36:22,836 INFO    MainThread:95199 [wandb_run.py:_config_callback():1376] config_cb None None {'batch_size': 40, 'epsilon_decay': 1.4247680934274758, 'learning_rate': 0.0016331175878402664}
+2024-06-03 21:36:22,838 INFO    MainThread:95199 [wandb_init.py:init():711] updated telemetry
+2024-06-03 21:36:22,861 INFO    MainThread:95199 [wandb_init.py:init():744] communicating run to backend with 90.0 second timeout
+2024-06-03 21:36:23,064 INFO    MainThread:95199 [wandb_run.py:_on_init():2396] communicating current version
+2024-06-03 21:36:23,176 INFO    MainThread:95199 [wandb_run.py:_on_init():2405] got version response 
+2024-06-03 21:36:23,177 INFO    MainThread:95199 [wandb_init.py:init():795] starting run threads in backend
+2024-06-03 21:36:25,707 INFO    MainThread:95199 [wandb_run.py:_console_start():2374] atexit reg
+2024-06-03 21:36:25,708 INFO    MainThread:95199 [wandb_run.py:_redirect():2229] redirect: wrap_raw
+2024-06-03 21:36:25,708 INFO    MainThread:95199 [wandb_run.py:_redirect():2294] Wrapping output streams.
+2024-06-03 21:36:25,708 INFO    MainThread:95199 [wandb_run.py:_redirect():2319] Redirects installed.
+2024-06-03 21:36:25,709 INFO    MainThread:95199 [wandb_init.py:init():838] run started, returning control to user process
+2024-06-03 21:36:27,761 INFO    MainThread:95199 [wandb_run.py:_finish():2103] finishing run dakota_csk/wandb_testing/w84f7c2k
+2024-06-03 21:36:27,761 INFO    MainThread:95199 [wandb_run.py:_atexit_cleanup():2343] got exitcode: 0
+2024-06-03 21:36:27,762 INFO    MainThread:95199 [wandb_run.py:_restore():2326] restore
+2024-06-03 21:36:27,762 INFO    MainThread:95199 [wandb_run.py:_restore():2332] restore done
+2024-06-03 21:36:32,906 INFO    MainThread:95199 [wandb_run.py:_footer_history_summary_info():3994] rendering history
+2024-06-03 21:36:32,908 INFO    MainThread:95199 [wandb_run.py:_footer_history_summary_info():4026] rendering summary
+2024-06-03 21:36:32,920 INFO    MainThread:95199 [wandb_run.py:_footer_sync_info():3953] logging synced files
